@@ -1,0 +1,14 @@
+{
+  "name": "tomasbabjak",
+  "version": "1.0.0",
+  "description": "Test package for VAVJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tomas Babjak",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
