@@ -9,7 +9,7 @@ describe("testing mocha", function() {
 
     it("Test Hello World", function() {
       assert.deepStrictEqual(testFunc(), 'Hello World',
-        "Object.keys() does not return Symbols");
+        "Does not return Hello World.");
     });
   })
 })
